@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+/dist
+/build
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
